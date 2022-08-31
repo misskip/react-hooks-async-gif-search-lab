@@ -1,20 +1,15 @@
 # Async Giphy Search Lab
 
-## Giphy Search
+🍕 Create a working app
 
-# Create a working app
-# You should have an application that can take in a user's input, fetch JSON data from the Giphy API,
-and display the results
+🍕 Application takes in a user's input, fetches JSON data from the Giphy API and displays the results
 
-# Create your own API key
+🍕 Create your own API key
 
-# You should be able to access the Giphy API from a
-browser and receive a JSON response to confirm everything is working
+🍕 Access the Giphy API from a browser and receive a JSON response to confirm everything is working
 
-`https://api.giphy.com/v1/gifs/search?q=dolphin&api_key=YOUR API KEY&rating=g`
+🍕 You should get back an array of objects each containing information about a particular image
 
-#  You should get back an array of objects, each containing information about a
-particular image
 
 ```js
   "data": [
